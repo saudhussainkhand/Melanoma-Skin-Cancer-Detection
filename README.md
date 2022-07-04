@@ -3,9 +3,9 @@
 ![Uniroma1 svg](https://user-images.githubusercontent.com/60270854/177061313-c1c5d83b-85b9-4e3e-b92e-fe58ef13c0f8.png)
 
 ### Project By:
-### - Saud Hussain (1990559)
-### - Raja Asim Fayyaz (1988888)
-### - Rida Amjad (1684582)
+ - Saud Hussain (1990559)
+ - Raja Asim Fayyaz (1988888)
+ - Rida Amjad (1684582)
 
 ## Summary
   * Introduction
