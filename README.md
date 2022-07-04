@@ -59,5 +59,10 @@ Classification Report:
 ![image](https://user-images.githubusercontent.com/60270854/177062727-bd7969e0-e16b-4245-88b9-ac1c528f4e1f.png)
 
 
+| Model         | Accuracy      | F1-Score |
+| ------------- | ------------- | -------- |
+| CNN          | 93%         | 93%  |
+| Transfer Learning (Xception) | 99% | 99%         | 
+| Vision Transformer |   94%      |  94%       | 
 
 
