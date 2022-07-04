@@ -7,6 +7,12 @@
 ### - Raja Asim Fayyaz (1988888)
 ### - Rida Amjad (1684582)
 
+## Summary
+  * Introduction
+  * Dataset
+  * Prerequisites 
+  * Results
+  
 ## Introduction
   Melanoma Skin Cancer is one of the deadlist type of skin cancer, if not detected in early stages. Studies show that melanoma has been responsible for 75% of skin cancer deaths.
   The Melanoma comes from melanocyte cells, melanin-producing cells, so that melanomas are generally brown or black colored. The diagnoses of melanoma cancer are often perfomed manually by visuals of skilled docters and analyzing the dermoscopy images.
@@ -21,6 +27,21 @@
    To download the dataset:
    - Uncomment line "#!wget https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_JPEG.zip" in EDA Analysis File.
    
+## Pre-Requisies to Run the Project
+  1- To run the project online you can can use Google Colab.
+  
+  2- TO run the project offline you ned to have the following.
+  
+        - Python3
+        - Jupyter pip install jupyterlab
+        - Tensorflow (via conda or pip)
+        - Numpy pip install numpy
+        - Pandas pip install pandas
+        - Matplotlib pip install matplotlib
+        - Seaborn pip install seaborn
+        - OpenCV pip install opencv-python
+        - Scikit Learn pip install scikit-learn
+        
 ## Results:
 ### CNN Model
 Classification Report:
@@ -36,3 +57,7 @@ Classification Report:
 Classification Report:
 
 ![image](https://user-images.githubusercontent.com/60270854/177062727-bd7969e0-e16b-4245-88b9-ac1c528f4e1f.png)
+
+
+
+
