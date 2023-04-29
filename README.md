@@ -5,7 +5,6 @@
 ### Project By:
  - Saud Hussain (1990559)
  - Raja Asim Fayyaz (1988888)
- - Rida Amjad (1684582)
 
 ## Summary
   * Introduction
